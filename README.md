@@ -41,6 +41,7 @@ SPN from AB-v1 and MCC-v0| |
 
 
 MountainCarContinuous-v0:
+In this environment we used several methods to aid convergence, since this task is known for its problematic reward system. For implementation details see the attached document.
 Number of episodes and run-time until convergence 
 
 Weight-Source| Episodes | Time
