@@ -36,7 +36,12 @@ Weight-Source| Episodes | Time
 From scratch | 871 | 6h 21m
 TL from AB-v1 | 452 | 3h 38m
 TL from MCC-v0|663|5h 39m
-SPN from AB-v1 and MCC-v0| | 
+SPN from AB-v1 and MCC-v0| 1333 | 22h 21m
+
+
+Average score over 100 episodes trend graphs:
+
+![CartpoleQ3_](https://user-images.githubusercontent.com/49614331/152200916-b755d5c1-8a34-41d3-bb89-1c4c35c9035e.png)
 
 
 
@@ -48,13 +53,15 @@ Number of episodes and run-time until convergence
 
 Weight-Source| Episodes | Time
 ---| ---| ---
-From scratch | 871 | 6h 21m
-TL from CP-v1 | 452 | 3h 38m
-SPN from AB-v1 and CP-v1| | 
+From scratch | 5060 | 8h 47m
+TL from CP-v1 | 2240 | 7h 11m
+SPN from AB-v1 and CP-v1| 1341 | 6h 41m
 
 Average score over 100 episodes trend graphs:
 
-![MountainQ3](https://user-images.githubusercontent.com/49614331/151968191-9085b447-cfba-49b1-b736-772f456fc658.png)
+![MountainQ3_](https://user-images.githubusercontent.com/49614331/152201640-6889f62a-ae65-4509-a493-65adb596186c.png)
+
+
 
 
 We invite the reader to read the attached document for more information and analysis.
